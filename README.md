@@ -33,6 +33,6 @@ Este projeto permitiu explorar:
 
 As imagens utilizadas foram fornecidas pelo currículo do [freeCodeCamp](https://www.freecodecamp.org/).
 
-## 📧 Contato
+## 🌐 Contato
 
 - **LinkedIn**: [https://www.linkedin.com/in/kccosta/](https://www.linkedin.com/in/kccosta/)
